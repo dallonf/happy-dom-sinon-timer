@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "happy-dom": "^11.2.0",
+    "happy-dom": "^12.0.1",
     "vitest": "^0.34.4"
   }
 }
